@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ils.xml -70.838156 -52.999581 36.09 93.93
 OBJECT_SHARED Models/Communications/vordme_1.xml -70.838056 -52.999444 35.96 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -70.83489 -52.99803 39.19 179.8
+# END dsf2stg
